@@ -33,7 +33,7 @@ Estudante do 3° período de Ciência da Computação na PUC Minas
   <a href = "mailto:camilahpmacedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-hollerbach-pimenta-macedo-36478b239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div align="inblock" >
-    
+
   ![Snake animation](https://github.com/camilahl/camilahl/blob/output/github-contribution-grid-snake.svg)
     
   </div>
