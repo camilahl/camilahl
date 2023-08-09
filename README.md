@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Camila Macedo 👋
 
-Estudante do 3° período de Ciência da Computação na PUC Minas
+Graduanda do curso Ciência da Computação na PUC Minas
 
 - 🌱 Atualmente aprendendo Java
 - 🎓 2025
